@@ -26,7 +26,7 @@ public class InGameButton : MonoBehaviour
     }
     public void LoadIngameScene()
     {
-        SceneManager.LoadScene("2_IngameScene");
+        SceneManager.LoadScene("Test1");
     }
     private string GetDebuggerDisplay()
     {
