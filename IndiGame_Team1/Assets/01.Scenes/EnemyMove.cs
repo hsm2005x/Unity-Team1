@@ -16,10 +16,9 @@ public class EnemyMove : MonoBehaviour
       // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            navAgent.SetDestination(target.position);
-        }
+        if(Input.GetKeyDown(KeyCode.))
+        navAgent.SetDestination(target.position);
+        
         Debug.Log("Update");
     }
 }
