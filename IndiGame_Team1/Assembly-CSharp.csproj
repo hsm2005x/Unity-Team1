@@ -63,7 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\01.Scenes\EnemyMove.cs" />
+    <Compile Include="Assets\01.Scenes\Turret.cs" />
+    <Compile Include="Assets\01.Scenes\WaveSpawn.cs" />
     <Compile Include="Assets\0_Game_start\Script\StartGameButton.cs" />
     <Compile Include="Assets\1_Story_Scene\Script\InGameButton.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
@@ -75,7 +76,6 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\SpawnManger.cs" />
-    <None Include="Assets\01.Scenes\test.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\03.Prefabs\test.txt" />
     <None Include="Assets\02.Scripts\test.txt" />
