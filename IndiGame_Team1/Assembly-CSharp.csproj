@@ -65,10 +65,13 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <Compile Include="Assets\01.Scenes\Turret.cs" />
     <Compile Include="Assets\01.Scenes\WaveSpawn.cs" />
     <Compile Include="Assets\Ex. Maps\TheTalesFactory\Photoscanned MoutainsRocks PBR\_ReadMe &amp; Publisher Window\Inspector Info\Scripts\PublisherReadme.cs" />
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     <Compile Include="Assets\0_Game_start\Script\StartGameButton.cs" />
     <Compile Include="Assets\1_Story_Scene\Script\InGameButton.cs" />
@@ -77,6 +80,9 @@
     <Compile Include="Assets\01.Scenes\WaveSpawn.cs" />
     <Compile Include="Assets\Ex. Maps\TheTalesFactory\Photoscanned MoutainsRocks PBR\_ReadMe &amp; Publisher Window\Inspector Info\Scripts\PublisherReadme.cs" />
 >>>>>>> 0705737e44492f00a043b91f1a67b6d8485a82cd
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
