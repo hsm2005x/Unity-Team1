@@ -39,7 +39,7 @@ public class WaveSpawn : MonoBehaviour
             SpawnEnemy();
         }
 
-        waveNumber++;
+        waveNumber = 1;
         Debug.Log("Wave Incomming");
     }
 

@@ -64,9 +64,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <Compile Include="Assets\01.Scenes\Turret.cs" />
     <Compile Include="Assets\01.Scenes\WaveSpawn.cs" />
     <Compile Include="Assets\Ex. Maps\TheTalesFactory\Photoscanned MoutainsRocks PBR\_ReadMe &amp; Publisher Window\Inspector Info\Scripts\PublisherReadme.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Assets\0_Game_start\Script\StartGameButton.cs" />
+    <Compile Include="Assets\1_Story_Scene\Script\InGameButton.cs" />
+=======
+    <Compile Include="Assets\01.Scenes\Turret.cs" />
+    <Compile Include="Assets\01.Scenes\WaveSpawn.cs" />
+    <Compile Include="Assets\Ex. Maps\TheTalesFactory\Photoscanned MoutainsRocks PBR\_ReadMe &amp; Publisher Window\Inspector Info\Scripts\PublisherReadme.cs" />
+>>>>>>> 0705737e44492f00a043b91f1a67b6d8485a82cd
+>>>>>>> Stashed changes
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
@@ -76,6 +87,8 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\SpawnManger.cs" />
+    <Compile Include="Assets\오광식\02.Scripts\Turret.cs" />
+    <Compile Include="Assets\오광식\02.Scripts\WaveSpawn.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\03.Prefabs\test.txt" />
     <None Include="Assets\02.Scripts\test.txt" />

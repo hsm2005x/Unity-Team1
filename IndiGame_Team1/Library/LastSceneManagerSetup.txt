@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/01.Scenes/Animation.unity
+- path: "Assets/\uC624\uAD11\uC2DD/01.Scenes/InGame-Day.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
